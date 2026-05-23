@@ -1,9 +1,6 @@
 # Predicting NYC Restaurant Critical Violations
 
-**Course:** DATA 602 — Final Project  
-**Author:** Harshit Raj Taneja  
-**Instructor:** Prof. Devin Fensterheim  
-**Term:** Spring 2026
+
 
 ---
 
